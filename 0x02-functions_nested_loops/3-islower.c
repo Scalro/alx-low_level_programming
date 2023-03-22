@@ -1,8 +1,9 @@
 #include "main.h"
 /**
  * _islower - function to print lowercase
- * @c - parameter to be printed
- * Return: 1 if lower case and 0 otherwise
+ * @c: parameter to be printed
+ * Return: 1 if it is lower case
+ * and 0 otherwise
  */
 
 int _islower(int c)
