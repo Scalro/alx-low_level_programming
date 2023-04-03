@@ -25,8 +25,8 @@ int _strncmp(char *s1, char *s2, unsigned int b)
 char *_strstr(char *haystack, char *needle)
 {
 	unsigned int l;
-
 	l = 0;
+
 	while (needle[l] != '\0')
 		l++;
 
